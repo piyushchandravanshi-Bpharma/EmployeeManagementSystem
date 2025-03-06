@@ -1,0 +1,858 @@
+{
+  "Version": 1,
+  "Hash": "32XgM9gzZ7P0XvVirmv2yFKmjlYBYEzJ5Fh/7O1tGPY=",
+  "Source": "EmployeeManagementSystem.Server",
+  "BasePath": "_content/EmployeeManagementSystem.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\employeemanagementsystem.client\\employeemanagementsystem.client.esproj",
+      "Version": 2,
+      "Source": "employeemanagementsystem.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;Configuration;Platform;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;Configuration;Platform;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EmployeeManagementSystem.Server\\wwwroot",
+      "Source": "EmployeeManagementSystem.Server",
+      "ContentRoot": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementSystem.Server",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\InputFiles\\5e195bd7-130d-4ce7-9de6-d20f3e8b6522.pdf",
+      "SourceId": "EmployeeManagementSystem.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementSystem.Server",
+      "RelativePath": "InputFiles/5e195bd7-130d-4ce7-9de6-d20f3e8b6522#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f7190b5niw",
+      "Integrity": "W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\InputFiles\\5e195bd7-130d-4ce7-9de6-d20f3e8b6522.pdf"
+    },
+    {
+      "Identity": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\InputFiles\\72fe9160-60f2-4b85-8de7-43eaa5c10016.pdf",
+      "SourceId": "EmployeeManagementSystem.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementSystem.Server",
+      "RelativePath": "InputFiles/72fe9160-60f2-4b85-8de7-43eaa5c10016#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f7190b5niw",
+      "Integrity": "W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\InputFiles\\72fe9160-60f2-4b85-8de7-43eaa5c10016.pdf"
+    },
+    {
+      "Identity": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\InputFiles\\d44edd18-1a59-46a4-9591-1ef41351279a.pdf",
+      "SourceId": "EmployeeManagementSystem.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementSystem.Server",
+      "RelativePath": "InputFiles/d44edd18-1a59-46a4-9591-1ef41351279a#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f7190b5niw",
+      "Integrity": "W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\InputFiles\\d44edd18-1a59-46a4-9591-1ef41351279a.pdf"
+    },
+    {
+      "Identity": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\InputFiles\\d4c53d71-6f98-40e4-9856-dbcd8d763231.pdf",
+      "SourceId": "EmployeeManagementSystem.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementSystem.Server",
+      "RelativePath": "InputFiles/d4c53d71-6f98-40e4-9856-dbcd8d763231#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aivg6s8fhu",
+      "Integrity": "gvlmlW0Qa1RsabJX87FVCJuuQGXDP5aGDLltg2oN6xI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\InputFiles\\d4c53d71-6f98-40e4-9856-dbcd8d763231.pdf"
+    },
+    {
+      "Identity": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\InputFiles\\f786e4f5-0c46-42d7-8760-b0e7cbb511e7.pdf",
+      "SourceId": "EmployeeManagementSystem.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementSystem.Server",
+      "RelativePath": "InputFiles/f786e4f5-0c46-42d7-8760-b0e7cbb511e7#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f7190b5niw",
+      "Integrity": "W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\InputFiles\\f786e4f5-0c46-42d7-8760-b0e7cbb511e7.pdf"
+    },
+    {
+      "Identity": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\OutputFiles\\6424be80-c678-4f74-a3dd-58b37e7ddab1.pdf",
+      "SourceId": "EmployeeManagementSystem.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementSystem.Server",
+      "RelativePath": "OutputFiles/6424be80-c678-4f74-a3dd-58b37e7ddab1#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f7190b5niw",
+      "Integrity": "W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\OutputFiles\\6424be80-c678-4f74-a3dd-58b37e7ddab1.pdf"
+    },
+    {
+      "Identity": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\OutputFiles\\9c9e4ddb-54fd-4d62-97d2-ed5174b12a15.pdf",
+      "SourceId": "EmployeeManagementSystem.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementSystem.Server",
+      "RelativePath": "OutputFiles/9c9e4ddb-54fd-4d62-97d2-ed5174b12a15#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5cyz91uw6j",
+      "Integrity": "lcWofG5xadZPyVlJddppx9hIn/p9Il/gsOslURj9fBI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\OutputFiles\\9c9e4ddb-54fd-4d62-97d2-ed5174b12a15.pdf"
+    },
+    {
+      "Identity": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\OutputFiles\\efa0251a-878d-4e86-8996-b28cae413c5a.pdf",
+      "SourceId": "EmployeeManagementSystem.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagementSystem.Server",
+      "RelativePath": "OutputFiles/efa0251a-878d-4e86-8996-b28cae413c5a#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f7190b5niw",
+      "Integrity": "W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\OutputFiles\\efa0251a-878d-4e86-8996-b28cae413c5a.pdf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "InputFiles/5e195bd7-130d-4ce7-9de6-d20f3e8b6522.f7190b5niw.pdf",
+      "AssetFile": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\InputFiles\\5e195bd7-130d-4ce7-9de6-d20f3e8b6522.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 15:30:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f7190b5niw"
+        },
+        {
+          "Name": "label",
+          "Value": "InputFiles/5e195bd7-130d-4ce7-9de6-d20f3e8b6522.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I="
+        }
+      ]
+    },
+    {
+      "Route": "InputFiles/5e195bd7-130d-4ce7-9de6-d20f3e8b6522.pdf",
+      "AssetFile": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\InputFiles\\5e195bd7-130d-4ce7-9de6-d20f3e8b6522.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 15:30:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I="
+        }
+      ]
+    },
+    {
+      "Route": "InputFiles/72fe9160-60f2-4b85-8de7-43eaa5c10016.f7190b5niw.pdf",
+      "AssetFile": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\InputFiles\\72fe9160-60f2-4b85-8de7-43eaa5c10016.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 04:19:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f7190b5niw"
+        },
+        {
+          "Name": "label",
+          "Value": "InputFiles/72fe9160-60f2-4b85-8de7-43eaa5c10016.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I="
+        }
+      ]
+    },
+    {
+      "Route": "InputFiles/72fe9160-60f2-4b85-8de7-43eaa5c10016.pdf",
+      "AssetFile": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\InputFiles\\72fe9160-60f2-4b85-8de7-43eaa5c10016.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 04:19:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I="
+        }
+      ]
+    },
+    {
+      "Route": "InputFiles/d44edd18-1a59-46a4-9591-1ef41351279a.f7190b5niw.pdf",
+      "AssetFile": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\InputFiles\\d44edd18-1a59-46a4-9591-1ef41351279a.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 17:09:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f7190b5niw"
+        },
+        {
+          "Name": "label",
+          "Value": "InputFiles/d44edd18-1a59-46a4-9591-1ef41351279a.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I="
+        }
+      ]
+    },
+    {
+      "Route": "InputFiles/d44edd18-1a59-46a4-9591-1ef41351279a.pdf",
+      "AssetFile": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\InputFiles\\d44edd18-1a59-46a4-9591-1ef41351279a.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 17:09:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I="
+        }
+      ]
+    },
+    {
+      "Route": "InputFiles/d4c53d71-6f98-40e4-9856-dbcd8d763231.aivg6s8fhu.pdf",
+      "AssetFile": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\InputFiles\\d4c53d71-6f98-40e4-9856-dbcd8d763231.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gvlmlW0Qa1RsabJX87FVCJuuQGXDP5aGDLltg2oN6xI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 15:28:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aivg6s8fhu"
+        },
+        {
+          "Name": "label",
+          "Value": "InputFiles/d4c53d71-6f98-40e4-9856-dbcd8d763231.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gvlmlW0Qa1RsabJX87FVCJuuQGXDP5aGDLltg2oN6xI="
+        }
+      ]
+    },
+    {
+      "Route": "InputFiles/d4c53d71-6f98-40e4-9856-dbcd8d763231.pdf",
+      "AssetFile": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\InputFiles\\d4c53d71-6f98-40e4-9856-dbcd8d763231.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gvlmlW0Qa1RsabJX87FVCJuuQGXDP5aGDLltg2oN6xI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 15:28:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gvlmlW0Qa1RsabJX87FVCJuuQGXDP5aGDLltg2oN6xI="
+        }
+      ]
+    },
+    {
+      "Route": "InputFiles/f786e4f5-0c46-42d7-8760-b0e7cbb511e7.f7190b5niw.pdf",
+      "AssetFile": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\InputFiles\\f786e4f5-0c46-42d7-8760-b0e7cbb511e7.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 12:21:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f7190b5niw"
+        },
+        {
+          "Name": "label",
+          "Value": "InputFiles/f786e4f5-0c46-42d7-8760-b0e7cbb511e7.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I="
+        }
+      ]
+    },
+    {
+      "Route": "InputFiles/f786e4f5-0c46-42d7-8760-b0e7cbb511e7.pdf",
+      "AssetFile": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\InputFiles\\f786e4f5-0c46-42d7-8760-b0e7cbb511e7.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 12:21:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I="
+        }
+      ]
+    },
+    {
+      "Route": "OutputFiles/6424be80-c678-4f74-a3dd-58b37e7ddab1.f7190b5niw.pdf",
+      "AssetFile": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\OutputFiles\\6424be80-c678-4f74-a3dd-58b37e7ddab1.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 04:45:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f7190b5niw"
+        },
+        {
+          "Name": "label",
+          "Value": "OutputFiles/6424be80-c678-4f74-a3dd-58b37e7ddab1.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I="
+        }
+      ]
+    },
+    {
+      "Route": "OutputFiles/6424be80-c678-4f74-a3dd-58b37e7ddab1.pdf",
+      "AssetFile": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\OutputFiles\\6424be80-c678-4f74-a3dd-58b37e7ddab1.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 04:45:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I="
+        }
+      ]
+    },
+    {
+      "Route": "OutputFiles/9c9e4ddb-54fd-4d62-97d2-ed5174b12a15.5cyz91uw6j.pdf",
+      "AssetFile": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\OutputFiles\\9c9e4ddb-54fd-4d62-97d2-ed5174b12a15.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "251110"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lcWofG5xadZPyVlJddppx9hIn/p9Il/gsOslURj9fBI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 04:15:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5cyz91uw6j"
+        },
+        {
+          "Name": "label",
+          "Value": "OutputFiles/9c9e4ddb-54fd-4d62-97d2-ed5174b12a15.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lcWofG5xadZPyVlJddppx9hIn/p9Il/gsOslURj9fBI="
+        }
+      ]
+    },
+    {
+      "Route": "OutputFiles/9c9e4ddb-54fd-4d62-97d2-ed5174b12a15.pdf",
+      "AssetFile": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\OutputFiles\\9c9e4ddb-54fd-4d62-97d2-ed5174b12a15.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "251110"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lcWofG5xadZPyVlJddppx9hIn/p9Il/gsOslURj9fBI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 04:15:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lcWofG5xadZPyVlJddppx9hIn/p9Il/gsOslURj9fBI="
+        }
+      ]
+    },
+    {
+      "Route": "OutputFiles/efa0251a-878d-4e86-8996-b28cae413c5a.f7190b5niw.pdf",
+      "AssetFile": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\OutputFiles\\efa0251a-878d-4e86-8996-b28cae413c5a.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 04:23:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f7190b5niw"
+        },
+        {
+          "Name": "label",
+          "Value": "OutputFiles/efa0251a-878d-4e86-8996-b28cae413c5a.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I="
+        }
+      ]
+    },
+    {
+      "Route": "OutputFiles/efa0251a-878d-4e86-8996-b28cae413c5a.pdf",
+      "AssetFile": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\EmployeeManagementSystem.Server\\wwwroot\\OutputFiles\\efa0251a-878d-4e86-8996-b28cae413c5a.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80015"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Feb 2025 04:23:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W4ogdN7YfTgt0gX4NBCjZcY48L3PTFlcfsuru8q9t7I="
+        }
+      ]
+    }
+  ]
+}
