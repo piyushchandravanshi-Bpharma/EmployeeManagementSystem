@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZAdyJkPtrKC7SQ8rIM9/WKuvQ0xyQNCn9VsxqYGAm2k=",
+  "Hash": "+pooyqWAxYvxUsOHSyVrj0Kd9oE7+dhUPaQm+qAtjG0=",
   "Source": "EmployeeManagementSystem.Server",
   "BasePath": "_content/EmployeeManagementSystem.Server",
   "Mode": "Default",
@@ -50,6 +50,27 @@
       "OriginalItemSpec": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\employeemanagementsystem.client\\dist\\assets\\admin-icon-BdpDC-Fv.png"
     },
     {
+      "Identity": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\employeemanagementsystem.client\\dist\\assets\\background-image.png",
+      "SourceId": "employeemanagementsystem.client",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\employeemanagementsystem.client\\dist\\",
+      "BasePath": "/",
+      "RelativePath": "assets/background-image.png",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x0ncyjocm7",
+      "Integrity": "kQ2B36GxPPYQ0SlIhOQ/w3ytHiSOTiSs8AvZE/4nZYA=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\employeemanagementsystem.client\\dist\\assets\\background-image.png"
+    },
+    {
       "Identity": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\employeemanagementsystem.client\\dist\\assets\\employee-icon-CLCHErAB.png",
       "SourceId": "employeemanagementsystem.client",
       "SourceType": "Discovered",
@@ -71,12 +92,12 @@
       "OriginalItemSpec": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\employeemanagementsystem.client\\dist\\assets\\employee-icon-CLCHErAB.png"
     },
     {
-      "Identity": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\employeemanagementsystem.client\\dist\\assets\\index-B0-ibNqY.js",
+      "Identity": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\employeemanagementsystem.client\\dist\\assets\\index-DRwBxeBL.js",
       "SourceId": "employeemanagementsystem.client",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\employeemanagementsystem.client\\dist\\",
       "BasePath": "/",
-      "RelativePath": "assets/index-B0-ibNqY.js",
+      "RelativePath": "assets/index-DRwBxeBL.js",
       "AssetKind": "Publish",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -85,11 +106,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "w8qf0ivm7r",
-      "Integrity": "oCo6npyd2gAuocDjva/551YMi3xAXK/fDgmtqdph4NI=",
+      "Fingerprint": "unds0cpey3",
+      "Integrity": "KvQR3zhZr4JE1D2DpYUpDfsvJe/Uum4Mgn5NPzPcaVk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\employeemanagementsystem.client\\dist\\assets\\index-B0-ibNqY.js"
+      "OriginalItemSpec": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\employeemanagementsystem.client\\dist\\assets\\index-DRwBxeBL.js"
     },
     {
       "Identity": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\employeemanagementsystem.client\\dist\\assets\\index-DTal9uRM.css",
@@ -148,8 +169,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "th0zv1z97y",
-      "Integrity": "v3/zq5xitsHnX2y0/pRZPhqDs2ZkWTHrE15cSeJTd4U=",
+      "Fingerprint": "ri6q4z27a6",
+      "Integrity": "g3Oxb1Pi1BladyTYSFNd2GiCy4MUHoHszN78+KWCJFw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\employeemanagementsystem.client\\dist\\index.html"
@@ -368,7 +389,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 16:31:20 GMT"
+          "Value": "Thu, 06 Mar 2025 17:27:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -379,6 +400,43 @@
         {
           "Name": "integrity",
           "Value": "sha256-Q2zZupvKjNTmjKf9COvBa3zDLa/kISnz/LtW1SbcH1I="
+        }
+      ]
+    },
+    {
+      "Route": "assets/background-image.png",
+      "AssetFile": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\employeemanagementsystem.client\\dist\\assets\\background-image.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "227974"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kQ2B36GxPPYQ0SlIhOQ/w3ytHiSOTiSs8AvZE/4nZYA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 17:25:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kQ2B36GxPPYQ0SlIhOQ/w3ytHiSOTiSs8AvZE/4nZYA="
         }
       ]
     },
@@ -405,7 +463,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 16:31:20 GMT"
+          "Value": "Thu, 06 Mar 2025 17:27:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -420,8 +478,8 @@
       ]
     },
     {
-      "Route": "assets/index-B0-ibNqY.js",
-      "AssetFile": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\employeemanagementsystem.client\\dist\\assets\\index-B0-ibNqY.js",
+      "Route": "assets/index-DRwBxeBL.js",
+      "AssetFile": "D:\\.net_dev\\EmployeeAdminPortal\\EmployeeManagementSystem\\employeemanagementsystem.client\\dist\\assets\\index-DRwBxeBL.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -430,7 +488,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1029595"
+          "Value": "1029591"
         },
         {
           "Name": "Content-Type",
@@ -438,11 +496,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"oCo6npyd2gAuocDjva/551YMi3xAXK/fDgmtqdph4NI=\""
+          "Value": "\"KvQR3zhZr4JE1D2DpYUpDfsvJe/Uum4Mgn5NPzPcaVk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 16:31:20 GMT"
+          "Value": "Thu, 06 Mar 2025 17:27:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -452,7 +510,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-oCo6npyd2gAuocDjva/551YMi3xAXK/fDgmtqdph4NI="
+          "Value": "sha256-KvQR3zhZr4JE1D2DpYUpDfsvJe/Uum4Mgn5NPzPcaVk="
         }
       ]
     },
@@ -479,7 +537,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 16:31:20 GMT"
+          "Value": "Thu, 06 Mar 2025 17:27:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -516,7 +574,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 16:31:20 GMT"
+          "Value": "Thu, 06 Mar 2025 17:27:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -549,11 +607,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"v3/zq5xitsHnX2y0/pRZPhqDs2ZkWTHrE15cSeJTd4U=\""
+          "Value": "\"g3Oxb1Pi1BladyTYSFNd2GiCy4MUHoHszN78+KWCJFw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Mar 2025 16:31:20 GMT"
+          "Value": "Thu, 06 Mar 2025 17:27:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -563,7 +621,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-v3/zq5xitsHnX2y0/pRZPhqDs2ZkWTHrE15cSeJTd4U="
+          "Value": "sha256-g3Oxb1Pi1BladyTYSFNd2GiCy4MUHoHszN78+KWCJFw="
         }
       ]
     },
