@@ -41,5 +41,6 @@ jobs:
           key: ${{ secrets.EC2_SSH_KEY }}
           script: |
             pkill dotnet || true
-            export ASPNETCORE_ENVIRONMENT=Development
-            nohup dotnet /home/ec2-user/publish/EmployeeManagementSystem.Server.dll > output.log 2>&1 &
+            cd /home/ec2-user/publish
+            chmod +x EmployeeManagementSystem.Server.dll
+            ASPNETCORE_ENVIRONMENT=Development nohup dotnet EmployeeManagementSystem.Server.dll > output.log 2>&1 &
