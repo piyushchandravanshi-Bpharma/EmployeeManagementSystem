@@ -59,5 +59,8 @@ jobs:
           key: ${{ secrets.EC2_SSH_KEY }}
           script: |
             cd /home/ec2-user/publish
-            export ASPNETCORE_ENVIRONMENT=Development 
+            chmod +x EmployeeManagementSystem.Server.dll
+            export ASPNETCORE_ENVIRONMENT=Development
             nohup dotnet EmployeeManagementSystem.Server.dll > output.log 2>&1 &
+            sleep 5
+            tail -n 50 output.log
