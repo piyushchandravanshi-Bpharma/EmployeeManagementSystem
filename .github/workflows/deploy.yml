@@ -58,7 +58,7 @@ jobs:
           username: ec2-user
           key: ${{ secrets.EC2_SSH_KEY }}
           script: |
-            cd /home/ec2-user/publish
+            cd /home/ec2-user/publish/publish
             if [ -f "EmployeeManagementSystem.Server.dll" ]; then
               chmod +x EmployeeManagementSystem.Server.dll
               export ASPNETCORE_ENVIRONMENT=Development
@@ -66,6 +66,6 @@ jobs:
               sleep 5
               tail -n 50 output.log
             else
-              echo "EmployeeManagementSystem.Server.dll not found in /home/ec2-user/publish"
-              ls -la /home/ec2-user/publish
+              echo "EmployeeManagementSystem.Server.dll not found in /home/ec2-user/publish/publish"
+              ls -la /home/ec2-user/publish/publish
             fi
