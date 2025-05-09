@@ -7,6 +7,7 @@ using EmployeeManagementSystem.Server.Data.Models;
 using EmployeeManagementSystem.Server.Service;
 using Microsoft.OpenApi.Models;
 using System.Text.Json.Serialization;
+using System;
 
 namespace EmployeeManagementSystem.Server.Extensions
 {
@@ -20,7 +21,9 @@ namespace EmployeeManagementSystem.Server.Extensions
 
             // Configure DB Context
             services.AddDbContext<ApplicationDbContext>(options =>
-                options.UseSqlServer(connectionString));
+    options.UseMySql(configuration.GetConnectionString("DefaultConnection"),
+        new MySqlServerVersion(new Version(8, 0, 36)) // replace with your MySQL version
+    ));
 
             // Configure Identity
             services.AddIdentityApiEndpoints<ApplicationUser>()
